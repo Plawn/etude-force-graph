@@ -1,0 +1,749 @@
+{
+    "id": 4996,
+    "name": "PEXE 2",
+    "createdAt": "2021-04-03T17:21:32.814967",
+    "deletedAt": null,
+    "defaultJehPrice": 400.0,
+    "jehCharges": 0.0,
+    "additionalCharges": 0.0,
+    "percentageAdvancePay": 50.0,
+    "description": "Ajout de fonctionnalités à un outil de notation en ligne",
+    "phases": null,
+    "documents": [{
+            "id": 29438,
+            "path": "missions/4996/DDE-2228-11585-02-2021-01.docx",
+            "createdAt": "2021-04-11T09:34:45.949842",
+            "deletedAt": null,
+            "reference": "DDE-2228-11585-02-2021-01",
+            "signedAt": "2021-04-15T09:01:07.265",
+            "linkedEntities": [{
+                "type": "Mission",
+                "entityId": 4996
+            }],
+            "relatedDocuments": [],
+            "type": {
+                "id": 3,
+                "value": "DDE",
+                "subValue": "",
+                "validationTypes": [{
+                        "id": 2,
+                        "value": "Qualité"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Trésorerie"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Président"
+                    },
+                    {
+                        "id": 1,
+                        "value": "Technique"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 29439,
+            "path": "missions/4996/FCA-2228-11585-02-2021-01.docx",
+            "createdAt": "2021-04-11T09:34:45.978042",
+            "deletedAt": null,
+            "reference": "FCA-2228-11585-02-2021-01",
+            "signedAt": "2021-04-15T09:01:07.265",
+            "linkedEntities": [{
+                "type": "Mission",
+                "entityId": 4996
+            }],
+            "relatedDocuments": [],
+            "type": {
+                "id": 18,
+                "value": "FCA",
+                "subValue": "",
+                "validationTypes": [{
+                    "id": 3,
+                    "value": "Trésorerie"
+                }]
+            }
+        },
+        {
+            "id": 29487,
+            "path": "missions/4996/REM-11585-2124-02-2021-01.docx",
+            "createdAt": "2021-04-14T09:52:24.028185",
+            "deletedAt": null,
+            "reference": "REM-11585-2124-02-2021-01",
+            "signedAt": null,
+            "linkedEntities": [{
+                    "type": "Mission",
+                    "entityId": 4996
+                },
+                {
+                    "type": "Student",
+                    "entityId": 2124
+                }
+            ],
+            "relatedDocuments": [],
+            "type": {
+                "id": 13,
+                "value": "REM",
+                "subValue": "",
+                "validationTypes": [{
+                        "id": 2,
+                        "value": "Qualité"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Président"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 29488,
+            "path": "missions/4996/REM-11585-2228-02-2021-01.docx",
+            "createdAt": "2021-04-14T09:52:30.493811",
+            "deletedAt": null,
+            "reference": "REM-11585-2228-02-2021-01",
+            "signedAt": null,
+            "linkedEntities": [{
+                    "type": "Mission",
+                    "entityId": 4996
+                },
+                {
+                    "type": "Student",
+                    "entityId": 2228
+                }
+            ],
+            "relatedDocuments": [],
+            "type": {
+                "id": 13,
+                "value": "REM",
+                "subValue": "",
+                "validationTypes": [{
+                        "id": 2,
+                        "value": "Qualité"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Président"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 29489,
+            "path": "missions/4996/REM-11585-2248-02-2021-01.docx",
+            "createdAt": "2021-04-14T09:52:38.049889",
+            "deletedAt": null,
+            "reference": "REM-11585-2248-02-2021-01",
+            "signedAt": null,
+            "linkedEntities": [{
+                    "type": "Mission",
+                    "entityId": 4996
+                },
+                {
+                    "type": "Student",
+                    "entityId": 2248
+                }
+            ],
+            "relatedDocuments": [],
+            "type": {
+                "id": 13,
+                "value": "REM",
+                "subValue": "",
+                "validationTypes": [{
+                        "id": 2,
+                        "value": "Qualité"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Président"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 29580,
+            "path": "missions/4996/PVR-2228-11585-02-2021-01.docx",
+            "createdAt": "2021-04-28T16:18:35.388574",
+            "deletedAt": null,
+            "reference": "PVR-2228-11585-02-2021-01",
+            "signedAt": null,
+            "linkedEntities": [{
+                "type": "Mission",
+                "entityId": 4996
+            }],
+            "relatedDocuments": [],
+            "type": {
+                "id": 11,
+                "value": "PVR",
+                "subValue": null,
+                "validationTypes": [{
+                        "id": 2,
+                        "value": "Qualité"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Président"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 29581,
+            "path": "missions/4996/FCS-2228-11585-02-2021-01.pdf",
+            "createdAt": "2021-04-28T16:18:35.724225",
+            "deletedAt": null,
+            "reference": "FCS-2228-11585-02-2021-01",
+            "signedAt": null,
+            "linkedEntities": [{
+                "type": "Mission",
+                "entityId": 4996
+            }],
+            "relatedDocuments": [],
+            "type": {
+                "id": 6,
+                "value": "FCS",
+                "subValue": "",
+                "validationTypes": [{
+                    "id": 3,
+                    "value": "Trésorerie"
+                }]
+            }
+        }
+    ],
+    "missionOrigin": {
+        "id": 11,
+        "value": "Contact personnel"
+    },
+    "projectManager": {
+        "id": 1431,
+        "dn": null,
+        "username": "ajasmin",
+        "mail": "ajasmin@juniorisep.com",
+        "disabled": false,
+        "student": {
+            "id": 2228,
+            "firstName": "Anaëlle",
+            "lastName": "JASMIN",
+            "mail": "ajasmin@juniorisep.com",
+            "phoneNumber": "07 68 38 63 40",
+            "promo": "2023",
+            "nationality": "FRANCAISE",
+            "cotisation": "0",
+            "address": "85 Rue Gallieni",
+            "city": "BOULOGNE BILLANCOURT",
+            "zipCode": "92100",
+            "iban": null,
+            "socialSecurityNumber": null,
+            "gender": "FEMALE",
+            "civility": {
+                "id": 2,
+                "value": "Mme"
+            },
+            "cetDocument": {
+                "id": 28283,
+                "path": "students/2228/CET-2228-2228-01-2020-01.docx",
+                "createdAt": "2020-11-16T10:39:56.746043",
+                "deletedAt": null,
+                "reference": "CET-2228-2228-01-2020-01",
+                "signedAt": null,
+                "linkedEntities": [{
+                    "type": "Student",
+                    "entityId": 2228
+                }],
+                "relatedDocuments": [],
+                "type": {
+                    "id": 27,
+                    "value": "CET",
+                    "subValue": "",
+                    "validationTypes": []
+                }
+            },
+            "picturePath": "https://documents.juniorisep.com/photos/students/2228/2042204748.jpg",
+            "preferences": {
+                "id": 73,
+                "darkMode": true,
+                "autoDarkMode": false,
+                "color": "#6e60a8",
+                "startTimeAutoDarkMode": "20:00:00",
+                "endTimeAutoDarkMode": "07:00:00",
+                "randomColor": false
+            },
+            "disabled": false,
+            "skills": []
+        }
+    },
+    "secondaryContacts": [],
+    "contact": {
+        "id": 5545,
+        "firstName": "Sophie",
+        "lastName": "GENTILS",
+        "phoneNumber": "06 64 34 07 53",
+        "mail": "sgentils@pexe.fr",
+        "position": "Responsable communication",
+        "deletedAt": null,
+        "gender": "FEMALE",
+        "company": {
+            "id": 11585,
+            "name": "PEXE",
+            "address": "31Bis rue des Longs Prés, Le Trèfle",
+            "zipCode": "92100",
+            "city": "BOULOGNE-BILLANCOURT",
+            "phoneNumber": "01 49 10 64 25",
+            "mail": "contact@pexe.fr",
+            "deletedAt": null,
+            "country": "France",
+            "activityArea": {
+                "id": 11,
+                "value": "Environnement"
+            },
+            "companyType": {
+                "id": 7,
+                "value": "Association"
+            }
+        },
+        "civility": {
+            "id": 2,
+            "value": "Mme"
+        }
+    },
+    "state": "SUIVI",
+    "followers": [{
+            "id": 123,
+            "type": {
+                "id": 2,
+                "value": "Qualité"
+            },
+            "member": {
+                "id": 48,
+                "dn": null,
+                "username": "pdegaulmyn",
+                "mail": "pdegaulmyn@juniorisep.com",
+                "disabled": false,
+                "student": {
+                    "id": 2160,
+                    "firstName": "Paul",
+                    "lastName": "DE GAULMYN",
+                    "mail": "pdegaulmyn@juniorisep.com",
+                    "phoneNumber": "07 87 02 73 06",
+                    "promo": "2022",
+                    "nationality": "Française",
+                    "cotisation": "15",
+                    "address": "98, rue de Rennes",
+                    "city": "PARIS ",
+                    "zipCode": "75006",
+                    "iban": null,
+                    "socialSecurityNumber": null,
+                    "gender": "MALE",
+                    "civility": {
+                        "id": 1,
+                        "value": "M."
+                    },
+                    "cetDocument": {
+                        "id": 27890,
+                        "path": "students/2160/CET-2160-2160-01-2020-01.docx",
+                        "createdAt": "2020-07-31T09:10:35.985463",
+                        "deletedAt": null,
+                        "reference": "CET-2160-2160-01-2020-01",
+                        "signedAt": null,
+                        "linkedEntities": [{
+                            "type": "Student",
+                            "entityId": 2160
+                        }],
+                        "relatedDocuments": [],
+                        "type": {
+                            "id": 27,
+                            "value": "CET",
+                            "subValue": "",
+                            "validationTypes": []
+                        }
+                    },
+                    "picturePath": "https://documents.juniorisep.com/photos/students/2160/678567300.png",
+                    "preferences": {
+                        "id": 41,
+                        "darkMode": true,
+                        "autoDarkMode": false,
+                        "color": "#4a90e2",
+                        "startTimeAutoDarkMode": "20:00:00",
+                        "endTimeAutoDarkMode": "07:00:00",
+                        "randomColor": false
+                    },
+                    "disabled": false,
+                    "skills": [{
+                        "id": 3,
+                        "value": "Wordpress"
+                    }]
+                }
+            },
+            "mission": {
+                "id": 4996,
+                "name": "PEXE 2",
+                "state": "SUIVI",
+                "projectManager": {
+                    "id": 1431,
+                    "username": "ajasmin",
+                    "mail": "ajasmin@juniorisep.com"
+                },
+                "missionOrigin": {
+                    "id": 11,
+                    "value": "Contact personnel"
+                }
+            }
+        },
+        {
+            "id": 124,
+            "type": {
+                "id": 1,
+                "value": "Technique"
+            },
+            "member": {
+                "id": 1401,
+                "dn": null,
+                "username": "pvenard",
+                "mail": "pvenard@juniorisep.com",
+                "disabled": false,
+                "student": {
+                    "id": 1968,
+                    "firstName": "Paul",
+                    "lastName": "VENARD",
+                    "mail": "venard.paul@gmail.com",
+                    "phoneNumber": "+33 7 81 14 04 07",
+                    "promo": "2022",
+                    "nationality": "francaise",
+                    "cotisation": "15",
+                    "address": "33, Rue du général Leclerc",
+                    "city": "ISSY-LES-MOULINEAUX ",
+                    "zipCode": "92130",
+                    "iban": null,
+                    "socialSecurityNumber": null,
+                    "gender": "MALE",
+                    "civility": {
+                        "id": 1,
+                        "value": "M."
+                    },
+                    "cetDocument": {
+                        "id": 23265,
+                        "path": "students/1968/CET-1734-1968-01-2909171557",
+                        "createdAt": "2017-09-29T15:57:01",
+                        "deletedAt": null,
+                        "reference": "CET-1734-1968-01-2909171557",
+                        "signedAt": null,
+                        "linkedEntities": [],
+                        "relatedDocuments": [],
+                        "type": {
+                            "id": 27,
+                            "value": "CET",
+                            "subValue": "",
+                            "validationTypes": []
+                        }
+                    },
+                    "picturePath": null,
+                    "preferences": {
+                        "id": 49,
+                        "darkMode": false,
+                        "autoDarkMode": true,
+                        "color": "#6e60a8",
+                        "startTimeAutoDarkMode": "20:00:00",
+                        "endTimeAutoDarkMode": "07:00:00",
+                        "randomColor": false
+                    },
+                    "disabled": false,
+                    "skills": [{
+                            "id": 1,
+                            "value": "React"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Symfony"
+                        },
+                        {
+                            "id": 5,
+                            "value": "Golang"
+                        },
+                        {
+                            "id": 6,
+                            "value": "Python"
+                        }
+                    ]
+                }
+            },
+            "mission": {
+                "id": 4996,
+                "name": "PEXE 2",
+                "state": "SUIVI",
+                "projectManager": {
+                    "id": 1431,
+                    "username": "ajasmin",
+                    "mail": "ajasmin@juniorisep.com"
+                },
+                "missionOrigin": {
+                    "id": 11,
+                    "value": "Contact personnel"
+                }
+            }
+        }
+    ],
+    "fields": null,
+    "positions": [{
+            "id": 349,
+            "student": {
+                "id": 2124,
+                "firstName": "Antoine",
+                "lastName": "COULON",
+                "mail": "coulon_antoine@outlook.fr",
+                "phoneNumber": "0630895241",
+                "promo": "",
+                "nationality": "Française",
+                "cotisation": "15€",
+                "address": "41 rue Hoche",
+                "city": "BAGNOLET",
+                "zipCode": "93170",
+                "iban": null,
+                "socialSecurityNumber": null,
+                "gender": "MALE",
+                "civility": {
+                    "id": 1,
+                    "value": "M."
+                },
+                "cetDocument": null,
+                "picturePath": null,
+                "skills": []
+            },
+            "jobType": {
+                "id": 3,
+                "name": "React",
+                "disabled": false
+            },
+            "duration": 3,
+            "createdAt": "2021-04-14T09:50:31.830806",
+            "remuneration": 480,
+            "description": "Ajout de fonctionnalités à un outil de notation en ligne",
+            "mission": {
+                "id": 4996,
+                "name": "PEXE 2",
+                "state": "SUIVI",
+                "projectManager": {
+                    "id": 1431,
+                    "username": "ajasmin",
+                    "mail": "ajasmin@juniorisep.com"
+                },
+                "missionOrigin": {
+                    "id": 11,
+                    "value": "Contact personnel"
+                }
+            }
+        },
+        {
+            "id": 351,
+            "student": {
+                "id": 2228,
+                "firstName": "Anaëlle",
+                "lastName": "JASMIN",
+                "mail": "ajasmin@juniorisep.com",
+                "phoneNumber": "07 68 38 63 40",
+                "promo": "2023",
+                "nationality": "FRANCAISE",
+                "cotisation": "0",
+                "address": "85 Rue Gallieni",
+                "city": "BOULOGNE BILLANCOURT",
+                "zipCode": "92100",
+                "iban": null,
+                "socialSecurityNumber": null,
+                "gender": "FEMALE",
+                "civility": {
+                    "id": 2,
+                    "value": "Mme"
+                },
+                "cetDocument": {
+                    "id": 28283,
+                    "path": "students/2228/CET-2228-2228-01-2020-01.docx",
+                    "createdAt": "2020-11-16T10:39:56.746043",
+                    "deletedAt": null,
+                    "reference": "CET-2228-2228-01-2020-01",
+                    "signedAt": null,
+                    "linkedEntities": [{
+                        "type": "Student",
+                        "entityId": 2228
+                    }],
+                    "relatedDocuments": [],
+                    "type": {
+                        "id": 27,
+                        "value": "CET",
+                        "subValue": "",
+                        "validationTypes": []
+                    }
+                },
+                "picturePath": "https://documents.juniorisep.com/photos/students/2228/2042204748.jpg",
+                "skills": []
+            },
+            "jobType": {
+                "id": 9,
+                "name": "Suivi de mission",
+                "disabled": true
+            },
+            "duration": 3,
+            "createdAt": "2021-04-14T09:51:15.953867",
+            "remuneration": 200,
+            "description": "Ajout de fonctionnalités à un outil de notation en ligne",
+            "mission": {
+                "id": 4996,
+                "name": "PEXE 2",
+                "state": "SUIVI",
+                "projectManager": {
+                    "id": 1431,
+                    "username": "ajasmin",
+                    "mail": "ajasmin@juniorisep.com"
+                },
+                "missionOrigin": {
+                    "id": 11,
+                    "value": "Contact personnel"
+                }
+            }
+        },
+        {
+            "id": 350,
+            "student": {
+                "id": 2248,
+                "firstName": "Etienne",
+                "lastName": "FAVIERE",
+                "mail": "eti.faviere@gmail.com",
+                "phoneNumber": "07 81 43 79 32",
+                "promo": "2023",
+                "nationality": "Française",
+                "cotisation": "15",
+                "address": " 5 Rue Leopold Robert",
+                "city": "PARIS",
+                "zipCode": "75014",
+                "iban": null,
+                "socialSecurityNumber": null,
+                "gender": "MALE",
+                "civility": {
+                    "id": 1,
+                    "value": "M."
+                },
+                "cetDocument": {
+                    "id": 28967,
+                    "path": "students/2248/CET-2215-2248-01-2021-01.docx",
+                    "createdAt": "2021-02-09T11:08:57.321897",
+                    "deletedAt": null,
+                    "reference": "CET-2215-2248-01-2021-01",
+                    "signedAt": null,
+                    "linkedEntities": [{
+                        "type": "Student",
+                        "entityId": 2248
+                    }],
+                    "relatedDocuments": [],
+                    "type": {
+                        "id": 27,
+                        "value": "CET",
+                        "subValue": "",
+                        "validationTypes": []
+                    }
+                },
+                "picturePath": null,
+                "skills": []
+            },
+            "jobType": {
+                "id": 2,
+                "name": "Symfony",
+                "disabled": false
+            },
+            "duration": 3,
+            "createdAt": "2021-04-14T09:50:53.035579",
+            "remuneration": 360,
+            "description": "Ajout de fonctionnalités à un outil de notation en ligne",
+            "mission": {
+                "id": 4996,
+                "name": "PEXE 2",
+                "state": "SUIVI",
+                "projectManager": {
+                    "id": 1431,
+                    "username": "ajasmin",
+                    "mail": "ajasmin@juniorisep.com"
+                },
+                "missionOrigin": {
+                    "id": 11,
+                    "value": "Contact personnel"
+                }
+            }
+        }
+    ],
+    "planning": {
+        "id": 60,
+        "createdAt": "2021-04-15T12:03:25.611489",
+        "updatedAt": "2021-04-15T12:03:25.611498",
+        "deliveries": [{
+            "id": 67,
+            "deliveryDate": "2021-05-06T09:01:07.265",
+            "phases": [{
+                    "id": 482,
+                    "name": "Phase 1 : Modification de la page de notation",
+                    "position": 1,
+                    "offsetTime": 0,
+                    "duration": 1,
+                    "jehAmount": 1,
+                    "subPhases": []
+                },
+                {
+                    "id": 483,
+                    "name": "Phase 2 : Ajout des fonctionnalités de la page d’accueil",
+                    "position": 2,
+                    "offsetTime": 7,
+                    "duration": 2,
+                    "jehAmount": 2,
+                    "subPhases": []
+                },
+                {
+                    "id": 484,
+                    "name": "Phase 3 : Modification de la page « Évènements passés »",
+                    "position": 3,
+                    "offsetTime": 7,
+                    "duration": 2,
+                    "jehAmount": 2,
+                    "subPhases": []
+                },
+                {
+                    "id": 485,
+                    "name": "Phase 4 : Modification du tableau d’export des résultats",
+                    "position": 4,
+                    "offsetTime": 0,
+                    "duration": 1,
+                    "jehAmount": 1,
+                    "subPhases": []
+                },
+                {
+                    "id": 486,
+                    "name": "Phase 5 : Tests globaux et complétion du manuel actuel",
+                    "position": 5,
+                    "offsetTime": 14,
+                    "duration": 1,
+                    "jehAmount": 0,
+                    "subPhases": []
+                },
+                {
+                    "id": 487,
+                    "name": "Phase 6 : Déploiement de l’application web",
+                    "position": 6,
+                    "offsetTime": 14,
+                    "duration": 1,
+                    "jehAmount": 0,
+                    "subPhases": []
+                },
+                {
+                    "id": 488,
+                    "name": "Phase 7 : Suivi d’étude",
+                    "position": 7,
+                    "offsetTime": 0,
+                    "duration": 3,
+                    "jehAmount": 1,
+                    "subPhases": []
+                }
+            ],
+            "document": null,
+            "invoice": null
+        }]
+    },
+    "subcontracted": false,
+    "fromSubcontracting": false
+}
