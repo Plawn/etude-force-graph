@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/etude-force-graph/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/etude-force-graph/static/js/main.da40e715.chunk.js",
-    "main.js.map": "/etude-force-graph/static/js/main.da40e715.chunk.js.map",
+    "main.js": "/etude-force-graph/static/js/main.aab63676.chunk.js",
+    "main.js.map": "/etude-force-graph/static/js/main.aab63676.chunk.js.map",
     "runtime-main.js": "/etude-force-graph/static/js/runtime-main.672da3ce.js",
     "runtime-main.js.map": "/etude-force-graph/static/js/runtime-main.672da3ce.js.map",
     "static/js/2.667137b9.chunk.js": "/etude-force-graph/static/js/2.667137b9.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.672da3ce.js",
     "static/js/2.667137b9.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.da40e715.chunk.js"
+    "static/js/main.aab63676.chunk.js"
   ]
 }
