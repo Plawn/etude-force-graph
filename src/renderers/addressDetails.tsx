@@ -10,7 +10,7 @@ type Props = {
 export default function AdressDetails({address, city, zipCode}: Props) {
     return (
         <Typography>
-            Addresse: {address}, {city}, {zipCode}
+            {/* Addresse: {address}, {city}, {zipCode} */}
         </Typography>
     );
 }
